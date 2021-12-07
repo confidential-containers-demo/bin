@@ -1,0 +1,7 @@
+b74d2583a9faec9fb4d11f6331e3571c  configuration-qemu.SEVCCv0.toml
+c91b26d71302c8deccbe17004f9a68a8  containerd-shim-kata-v2
+66a933c2e5b6888f869d1570e7084ed2  kata-containers-initrd.img
+1f6029404017705c52903edc4fb2f0d1  kata-runtime
+f34d1b74df9f488fe5805251e5ae6bf1  OVMF.fd
+bae81da4a2c8de11f15616f25551937a  qemu-system-x86_64
+aff64d29ad2880362c1eb6fd83b2d37a  vmlinuz-5.15.0-rc5+
